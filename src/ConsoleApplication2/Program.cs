@@ -13,10 +13,13 @@ namespace ConsoleApplication2
             Console.WriteLine("Test");
 
 
+<<<<<<< HEAD
        //     Console.ReadKey();
  
 
 
+=======
+>>>>>>> parent of c99620c... j
         }
     }
 }
