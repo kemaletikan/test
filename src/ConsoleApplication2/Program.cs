@@ -11,11 +11,14 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("Test");
+<<<<<<< HEAD
 dfg
 
        //     Console.ReadKey();
  
 
+=======
+>>>>>>> parent of d5c7d28... a
         }
     }
 }
